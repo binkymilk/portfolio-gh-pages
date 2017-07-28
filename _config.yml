@@ -1,2 +1,3 @@
 name: Bianca Silmaro, Data Storyteller
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
