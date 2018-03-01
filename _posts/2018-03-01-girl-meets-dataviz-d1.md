@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Girl Meets #DataViz: Day 1"
+date: 2018-03-01
+---
 
 # Day 1: NumPy Basics
 
