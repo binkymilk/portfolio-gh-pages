@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Girl Meets #DataViz: Day 4"
+date: 2018-03-05
+---
+
 
 # Day 4: Intro to Pandas Data Structure
 
