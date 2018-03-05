@@ -14,8 +14,7 @@ Many universal functions (ufuncs) are simple element-wise transformations. This 
 
 {% highlight ipython %}
 import numpy as np
-{% highlight ipython %}
-
+{% endhighlight %}
 
 ```python
 arr = np.arange(10)
