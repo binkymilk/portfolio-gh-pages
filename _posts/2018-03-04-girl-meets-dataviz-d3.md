@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Girl Meets #DataViz: Day 3"
+date: 2018-03-04
+---
 
 # Day 3: Data Processing Using Arrays
 
