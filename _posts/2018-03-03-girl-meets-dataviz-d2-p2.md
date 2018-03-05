@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Girl Meets #DataViz: Day 3 (Part 2)"
+date: 2018-03-04
+---
+
 
 # Day 3: File Input and Output, Linear Algebra, RNG
 
