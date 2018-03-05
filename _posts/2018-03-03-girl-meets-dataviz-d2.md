@@ -12,11 +12,10 @@ This is my second day of learning data analysis! Today's lesson is rather short,
 Many universal functions (ufuncs) are simple element-wise transformations. This means that given an array, it will perform the function in every element.
 
 
-{% highlight python %}
-
+```python
 import numpy as np
+```
 
-{% endhighlight %}
 
 ```python
 arr = np.arange(10)
