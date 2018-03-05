@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Girl Meets #DataViz"
+title: "Girl Meets #DataViz: Day 2"
 date: 2018-03-03
 ---
 
