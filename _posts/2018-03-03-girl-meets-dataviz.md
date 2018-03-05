@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Girl Meets #DataViz"
+date: 2018-03-03
+---
+
 
 # Day 2: Universal Functions
 
