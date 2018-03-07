@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bianca Silmaro, Data Storyteller, Launches Site"
+title: "Bianca Launches Site"
 date: 2017-07-28
 ---
 
