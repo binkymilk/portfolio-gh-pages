@@ -1,7 +1,28 @@
-theme: jekyll-theme-primer
+# Site settings
+title:          BCS
+description:    "long-suffering BTS fan"
+url:            "https://binkymilk.github.io"
 
-name:  Bianca Silmaro
+# Author
+author:
+  name:         Bianca Silmaro
+  url:          https://www.twitter.com/binkymilk
+  email:        biancasilmaro@gmail.com
 
-description: long-suffering BTS fan
+# Build settings
+markdown:       kramdown
 
-disqus: biancasilmaro
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
