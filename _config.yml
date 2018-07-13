@@ -1,3 +1,5 @@
 name: Bianca Silmaro, Data Storyteller
-markdown: kramdown
+title: B for Banana
+description: currently obssessed with BTS
+theme: jekyll-theme-primer
 permalink: /blog/:year/:month/:day/:title
