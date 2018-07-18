@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learn Django"
-date: 2017-03-07
+title: "Learn Django 2"
+date: 2018-03-07
 ---
 
 Today, I was able to deploy my Django site to the web!
