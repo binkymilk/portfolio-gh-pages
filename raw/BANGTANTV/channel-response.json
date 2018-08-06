@@ -1,0 +1,59 @@
+/**
+ * API response
+ */
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/jQJ5JdUtR4xFwC9MnLsHyOm15-k\"",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/KA4-H9Q92oWu_XkEvrQwDcW075Y\"",
+      "id": "UCLkAepWjdylmXSltofFvsYQ",
+      "snippet": {
+        "title": "BANGTANTV",
+        "description": "",
+        "customUrl": "BANGTANTV",
+        "publishedAt": "2012-12-17T03:20:38.000Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/-W0mW5OU8YV0/AAAAAAAAAAI/AAAAAAAAAAA/Pbh3LomrKK4/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/-W0mW5OU8YV0/AAAAAAAAAAI/AAAAAAAAAAA/Pbh3LomrKK4/s240-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/-W0mW5OU8YV0/AAAAAAAAAAI/AAAAAAAAAAA/Pbh3LomrKK4/s800-c-k-no-mo-rj-c0xffffff/photo.jpg",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "BANGTANTV",
+          "description": ""
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "uploads": "UULkAepWjdylmXSltofFvsYQ",
+          "watchHistory": "HL",
+          "watchLater": "WL"
+        }
+      },
+      "statistics": {
+        "viewCount": "1566159950",
+        "commentCount": "0",
+        "subscriberCount": "9960091",
+        "hiddenSubscriberCount": false,
+        "videoCount": "856"
+      }
+    }
+  ]
+}

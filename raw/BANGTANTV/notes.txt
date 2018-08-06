@@ -1,0 +1,29 @@
+What are the things that I want to know?
+
+1. How many videos in BANGTANTV? 856 videos.
+2. How many subscribers? 9,988,004 subscribers.
+3. Total duration of all videos /
+   - smallest vs longest videos
+4. Total number of views
+   - Top 10 videos with the most views /
+   - Top videos per year / 
+5. Total number of likes
+   - Top 10 videos with the most likes /
+   - Top videos per year / 
+6. Total number of dislikes
+   - Top 10 videos with the most dislikes /
+   - Top videos per year /
+7. Total number of comments
+   - Top 10 videos with the most comments /
+   - Top videos per year / 
+8. Growth of number of views per time (unit chart? line chart?) /
+9. Number of bangtan bombs
+   - Get its release date as well /
+10. Number of episodes
+   - Get its release date as well /
+11. Number of choreography videos
+   - Get its release date as well /
+12. relationship between views and like /
+13. relationship between views and dislikes /
+14. relationship between views and comments /
+

@@ -2,6 +2,7 @@
 layout: post
 title: "Movie Tickets Visualization"
 date: 2018-07-12
+header: assets/movie-tix-header.png
 ---
 
 For the second week, I decided to use data I have personally collected. I'm a big fan of movies and I want to make sense of my data to get insights on my viewing preferences (and slightly curious as well on how much I've spent already on watching movies). My dataset is a bit of small so I teamed up with a friend to analyze our viewing preferences. It is still a bit small and I stopped collecting after August of last year, but for the sake of practice, I'll be proceeding anyway for the analysis.

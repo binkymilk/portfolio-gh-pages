@@ -1,0 +1,2392 @@
+{
+ "kind": "youtube#playlistItemListResponse",
+ "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/k9fNYJYW7mR1JQJscL76o4YCzJ4\"",
+ "nextPageToken": "CGQQAA",
+ "prevPageToken": "CDIQAQ",
+ "pageInfo": {
+  "totalResults": 856,
+  "resultsPerPage": 50
+ },
+ "items": [
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/a2xH6MLkyjhTeLU3K8cQZYausb4\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLnhmLWR5d2Qzengw",
+   "snippet": {
+    "publishedAt": "2018-03-14T12:17:34.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "Official Trailer | BTS: Burn The Stage",
+    "description": "Episode 1 & 2 release on, March 29th 00:00AM KST, March 28th 08:00AM PST.\nClick this link to enjoy BTS special offer with extended 2-months free trial: http://g.co/BTSoffer - valid in US/KR, March 13th - April 13th PST\nIf you live outside the United States, Mexico, New Zealand, Australia or Korea, click here for more details on availability in your country: https://goo.gl/UEojxv.\n\n\"\"Burn the Stage\"\" follows the 300-day journey of the band's sold-out world tour, 2017 BTS LIVE TRILOGY EPISODE : THE WINGS TOUR. This show is an intimate, personal portrayal dedicated to each other and to their fans across the globe. It celebrates the triumph of their friendship as they overcome shared hardships, and shows the growth and hard work as BTS continues on the path to grow into fully-fledged artists.\n\nFind other great YouTube Red Originals here - https://www.youtube.com/youtuberedoriginals\n\n--\n\n한국시간 3월 28일 수요일 밤 자정 (29일 12AM) 에피소드 1 & 2화 동시 공개!\n한국과 미국에서 http://g.co/BTSoffer 링크를 통해 유튜브 레드에 가입하는 경우 2개월 무료 이용 가능 - 기간 한정 프로모션: 한국 시간 3월 14일 부터 4월 14일 까지\n\n데뷔 5년차 정상급 k-pop 아티스트 BTS. 화려한 퍼포먼스 가득한 무대 위의 모습과 자리를 지키기 위한 끊임없는 노력, 무대 뒤에서 성장해 나가는 과정, 그리고 한류를 뛰어넘어 진정한 월드스타로 거듭날 수 있는 더 큰 가능성을 위해 그들이 흘린 피 땀 눈물을 느낄 수 있는 BTS의 밀착 성장 리얼리티 다큐.\n\n전 세계 주요 도시에서 펼쳐진 2017 BTS LIVE TRILOGY EPISODE : THE WINGS TOUR를 담은 이 다큐를 통해 무대에서는 볼 수 없던 백스테이지 현장과 멤버들의 속마음, 음악적 견해에  대한 고민 그리고 정상에 오른 후에도 계속되는 노력과 커지는 꿈을 볼 수 있다. ‘BTS의 노력은, 성장은, 꿈은 계속된다’ 는 주제를 담고 있다.",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xf-dywd3zx0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xf-dywd3zx0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xf-dywd3zx0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xf-dywd3zx0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/xf-dywd3zx0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 50,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xf-dywd3zx0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "xf-dywd3zx0",
+    "videoPublishedAt": "2018-03-14T12:17:34.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/GcDN0Ks-4lZcr_oNEHHLSa863AI\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLklwN2VWdUZ4aUVF",
+   "snippet": {
+    "publishedAt": "2018-03-12T06:00:04.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[EPISODE] j-hope 1st mixtape MV Shooting #2",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Ip7eVuFxiEE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Ip7eVuFxiEE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Ip7eVuFxiEE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Ip7eVuFxiEE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Ip7eVuFxiEE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 51,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Ip7eVuFxiEE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Ip7eVuFxiEE",
+    "videoPublishedAt": "2018-03-12T06:00:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/k8buFfQboKeNZAW6Y8Dnd8rCYdI\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLkpuN3JtR3N3YjI4",
+   "snippet": {
+    "publishedAt": "2018-04-14T06:00:03.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] BTS won 1st place (subtitle. Special MC day) @Mcountdown - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Jn7rmGswb28/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Jn7rmGswb28/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Jn7rmGswb28/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 52,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Jn7rmGswb28"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Jn7rmGswb28",
+    "videoPublishedAt": "2018-04-14T06:00:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cC6TToYPsz6FPB84tx2bz23kSYc\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLi12aUluTWdNRDNv",
+   "snippet": {
+    "publishedAt": "2018-03-10T06:00:07.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[EPISODE] j-hope 1st mixtape MV Shooting #1",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/-viInMgMD3o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/-viInMgMD3o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/-viInMgMD3o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/-viInMgMD3o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/-viInMgMD3o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 53,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "-viInMgMD3o"
+    }
+   },
+   "contentDetails": {
+    "videoId": "-viInMgMD3o",
+    "videoPublishedAt": "2018-03-10T06:00:07.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/oe3UY8Nt4EuqqsfphsfduN7bWj8\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLmkzNU9lNWZYZVBz",
+   "snippet": {
+    "publishedAt": "2018-04-09T10:00:04.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] (toy) MIC Drop by J-HOPE - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/i35Oe5fXePs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/i35Oe5fXePs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/i35Oe5fXePs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/i35Oe5fXePs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/i35Oe5fXePs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 54,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "i35Oe5fXePs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "i35Oe5fXePs",
+    "videoPublishedAt": "2018-04-09T10:00:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ctBPpuapu7CedfrXS7Kx6moHUFo\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLm1HVWU3cHlyYU84",
+   "snippet": {
+    "publishedAt": "2018-02-24T13:56:34.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "180111 Jin",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mGUe7pyraO8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mGUe7pyraO8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mGUe7pyraO8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mGUe7pyraO8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mGUe7pyraO8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 55,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mGUe7pyraO8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "mGUe7pyraO8",
+    "videoPublishedAt": "2018-02-24T13:56:34.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/4fhVP96N0axRiMOXSxVT2c2YryE\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLkwtZTBKVzBWZDM4",
+   "snippet": {
+    "publishedAt": "2018-02-08T14:48:05.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "171119 제이홉",
+    "description": "",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/L-e0JW0Vd38/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/L-e0JW0Vd38/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/L-e0JW0Vd38/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/L-e0JW0Vd38/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/L-e0JW0Vd38/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 56,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "L-e0JW0Vd38"
+    }
+   },
+   "contentDetails": {
+    "videoId": "L-e0JW0Vd38",
+    "videoPublishedAt": "2018-02-08T14:48:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/gmbEqO5pFUl_Gdmh36UzhTe5TyY\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLldCYTc1QTRLV3RN",
+   "snippet": {
+    "publishedAt": "2018-02-02T12:00:07.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] BTS with Special MC Jin @2017 KBS 가요대축제 - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/WBa75A4KWtM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/WBa75A4KWtM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/WBa75A4KWtM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/WBa75A4KWtM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/WBa75A4KWtM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 57,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "WBa75A4KWtM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "WBa75A4KWtM",
+    "videoPublishedAt": "2018-02-02T12:00:07.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/WB8YpD14eSoySZZlPtbdEJFF3CE\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLmFac05UdmlOVGZV",
+   "snippet": {
+    "publishedAt": "2018-02-09T11:00:04.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] Behind the stage of ‘고민보다Go' (heart ver.) @2017 MBC 가요대제전 - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/aZsNTviNTfU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/aZsNTviNTfU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/aZsNTviNTfU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 58,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "aZsNTviNTfU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "aZsNTviNTfU",
+    "videoPublishedAt": "2018-02-09T11:00:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-zIL0lWWMDbRLbR4HVUW7ELuCFA\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLjMtRlhXMENXXzhv",
+   "snippet": {
+    "publishedAt": "2018-02-04T06:00:07.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] V&Jungkook Singing at standby time - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/3-FXW0CW_8o/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/3-FXW0CW_8o/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/3-FXW0CW_8o/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/3-FXW0CW_8o/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/3-FXW0CW_8o/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 59,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "3-FXW0CW_8o"
+    }
+   },
+   "contentDetails": {
+    "videoId": "3-FXW0CW_8o",
+    "videoPublishedAt": "2018-02-04T06:00:07.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/IkprDceNm58QwPg0bK4yHwtljoQ\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLnBvNVFsb1JsT3NN",
+   "snippet": {
+    "publishedAt": "2018-02-11T06:00:07.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] 'MIC Drop' Special Stage (BTS focus) @2017 MBC 가요대제전 - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/po5QloRlOsM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/po5QloRlOsM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/po5QloRlOsM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/po5QloRlOsM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/po5QloRlOsM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 60,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "po5QloRlOsM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "po5QloRlOsM",
+    "videoPublishedAt": "2018-02-11T06:00:07.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/POB2N-zdXhQeEahMObdWKse4f4g\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLlQtaUFxZXF3R0tV",
+   "snippet": {
+    "publishedAt": "2018-02-11T05:00:12.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] '고민보다 Go' Special Stage (BTS focus) @2017 MBC 가요대제전 - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/T-iAqeqwGKU/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/T-iAqeqwGKU/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/T-iAqeqwGKU/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/T-iAqeqwGKU/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/T-iAqeqwGKU/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 61,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "T-iAqeqwGKU"
+    }
+   },
+   "contentDetails": {
+    "videoId": "T-iAqeqwGKU",
+    "videoPublishedAt": "2018-02-11T05:00:12.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/cR-S2-pp86YvjYoXZUHjBqfKSkM\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLlItY2VMVW80Zmdz",
+   "snippet": {
+    "publishedAt": "2018-01-28T06:00:04.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[EPISODE] BTS @2017 SBS 가요대전",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/R-ceLUo4fgs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/R-ceLUo4fgs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/R-ceLUo4fgs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/R-ceLUo4fgs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/R-ceLUo4fgs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 62,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "R-ceLUo4fgs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "R-ceLUo4fgs",
+    "videoPublishedAt": "2018-01-28T06:00:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PCvbNuRi3wtVgEaCOHzUEy9cEVE\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLjQycXVVQmdleHkw",
+   "snippet": {
+    "publishedAt": "2018-01-21T06:00:06.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] V’s Surprise Birthday Party - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/42quUBgexy0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/42quUBgexy0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/42quUBgexy0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/42quUBgexy0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/42quUBgexy0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 63,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "42quUBgexy0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "42quUBgexy0",
+    "videoPublishedAt": "2018-01-21T06:00:06.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/SduDmZL1wgMcE-A8huTuN_YIkfs\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLkUwclpWUEZVZXln",
+   "snippet": {
+    "publishedAt": "2018-01-19T11:00:05.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] Jin’s Surprise Birthday Party - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/E0rZVPFUeyg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/E0rZVPFUeyg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/E0rZVPFUeyg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/E0rZVPFUeyg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/E0rZVPFUeyg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 64,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "E0rZVPFUeyg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "E0rZVPFUeyg",
+    "videoPublishedAt": "2018-01-19T11:00:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/h5jGs5cUsEnlMEG4WdqwEP-aqpM\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLmZsb01xS195SGY4",
+   "snippet": {
+    "publishedAt": "2018-01-27T05:00:00.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] 'MIC Drop' Special Stage (BTS focus) @MAMA - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/floMqK_yHf8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/floMqK_yHf8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/floMqK_yHf8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/floMqK_yHf8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/floMqK_yHf8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 65,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "floMqK_yHf8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "floMqK_yHf8",
+    "videoPublishedAt": "2018-01-27T05:00:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NEyGuq_f9-g2t6FU6b52mUPZKK0\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLlJidjh4M2o3MlNz",
+   "snippet": {
+    "publishedAt": "2018-01-07T06:10:05.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] '봄날' Special Stage (BTS focus) @MMA - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Rbv8x3j72Ss/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Rbv8x3j72Ss/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Rbv8x3j72Ss/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Rbv8x3j72Ss/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Rbv8x3j72Ss/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 66,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Rbv8x3j72Ss"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Rbv8x3j72Ss",
+    "videoPublishedAt": "2018-01-07T06:10:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/sOYjiIwYAjMM3Jm4gX7T8TkmlpQ\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLlRCeFMyb0lVVXFj",
+   "snippet": {
+    "publishedAt": "2018-01-07T06:00:05.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] 'DNA' Special Stage (BTS focus) @MMA - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TBxS2oIUUqc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TBxS2oIUUqc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TBxS2oIUUqc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 67,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TBxS2oIUUqc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "TBxS2oIUUqc",
+    "videoPublishedAt": "2018-01-07T06:00:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/hj3eUC_49bQFqnGfZTv2gFl6Dqo\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLlNqRlFpZlV0T0lB",
+   "snippet": {
+    "publishedAt": "2018-01-05T11:00:01.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[EPISODE] BTS @2017 MMA",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SjFQifUtOIA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SjFQifUtOIA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SjFQifUtOIA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 68,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "SjFQifUtOIA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "SjFQifUtOIA",
+    "videoPublishedAt": "2018-01-05T11:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/6ZfRBG1NkyLJTHqIH_VXrRZj0cM\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLjQ3dENfRzFESjdN",
+   "snippet": {
+    "publishedAt": "2017-12-31T16:00:17.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] Happy new year 2018! - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/47tC_G1DJ7M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/47tC_G1DJ7M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/47tC_G1DJ7M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/47tC_G1DJ7M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/47tC_G1DJ7M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 69,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "47tC_G1DJ7M"
+    }
+   },
+   "contentDetails": {
+    "videoId": "47tC_G1DJ7M",
+    "videoPublishedAt": "2017-12-31T16:00:17.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/dPvDBB5ok8yoFnjwhxhKYk-zNSU\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLk9Nak1tVUxobF9N",
+   "snippet": {
+    "publishedAt": "2017-12-17T10:00:05.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[EPISODE] BTS (방탄소년단) @ AMAs 2017",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/OMjMmULhl_M/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/OMjMmULhl_M/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/OMjMmULhl_M/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/OMjMmULhl_M/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/OMjMmULhl_M/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 70,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "OMjMmULhl_M"
+    }
+   },
+   "contentDetails": {
+    "videoId": "OMjMmULhl_M",
+    "videoPublishedAt": "2017-12-17T10:00:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/p9Dhb5E-tnYTbtYy4buuofMb-BY\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLlRMZ0FkVnY5c25v",
+   "snippet": {
+    "publishedAt": "2018-03-30T11:00:08.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] BTS standby time @ Mcountdown for DNA & MIC Drop comeback stage - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/TLgAdVv9sno/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/TLgAdVv9sno/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/TLgAdVv9sno/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/TLgAdVv9sno/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/TLgAdVv9sno/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 71,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "TLgAdVv9sno"
+    }
+   },
+   "contentDetails": {
+    "videoId": "TLgAdVv9sno",
+    "videoPublishedAt": "2018-03-30T11:00:08.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9B76hsqSqi92NG2cApbpyMxF81c\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLmIzalNyMGQySHcw",
+   "snippet": {
+    "publishedAt": "2018-04-07T05:00:10.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] BTS '고민보다 GO' stage with ARMY~perfect voice~ - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/b3jSr0d2Hw0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/b3jSr0d2Hw0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/b3jSr0d2Hw0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/b3jSr0d2Hw0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/b3jSr0d2Hw0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 72,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "b3jSr0d2Hw0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "b3jSr0d2Hw0",
+    "videoPublishedAt": "2018-04-07T05:00:10.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lNvWj5u_4E-i93jF-GPF1jCJN_g\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLm1IUDNYcUtIU3NZ",
+   "snippet": {
+    "publishedAt": "2018-04-02T06:00:05.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] VJ Hobi's self camera @Musicbank - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/mHP3XqKHSsY/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/mHP3XqKHSsY/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/mHP3XqKHSsY/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/mHP3XqKHSsY/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/mHP3XqKHSsY/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 73,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "mHP3XqKHSsY"
+    }
+   },
+   "contentDetails": {
+    "videoId": "mHP3XqKHSsY",
+    "videoPublishedAt": "2018-04-02T06:00:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/GaaO3rz0yO7tacA1NMgyHJke3yQ\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLlJnenI4TG1GSE44",
+   "snippet": {
+    "publishedAt": "2018-03-25T08:02:08.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] JIMIN's Piano solo showcase - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Rgzr8LmFHN8/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Rgzr8LmFHN8/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Rgzr8LmFHN8/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Rgzr8LmFHN8/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Rgzr8LmFHN8/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 74,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Rgzr8LmFHN8"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Rgzr8LmFHN8",
+    "videoPublishedAt": "2018-03-25T08:02:08.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fsykQEZXy5zF0uRK2JFILhb_wl8\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLjdQUWJNTGNfc1Nz",
+   "snippet": {
+    "publishedAt": "2018-02-28T05:00:05.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] The cutest boy in the world is Hawaii-kkojili (suntanned JK in Hawaii) for BTS @VLIVE",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/7PQbMLc_sSs/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/7PQbMLc_sSs/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/7PQbMLc_sSs/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/7PQbMLc_sSs/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/7PQbMLc_sSs/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 75,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "7PQbMLc_sSs"
+    }
+   },
+   "contentDetails": {
+    "videoId": "7PQbMLc_sSs",
+    "videoPublishedAt": "2018-02-28T05:00:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/NXlOiU0-aizeA3LVLhgPOezm7pA\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLkhEUFJ6Sjk3Wm9z",
+   "snippet": {
+    "publishedAt": "2018-02-17T11:00:08.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] BTS' exciting Game room #3 - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HDPRzJ97Zos/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HDPRzJ97Zos/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HDPRzJ97Zos/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/HDPRzJ97Zos/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/HDPRzJ97Zos/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 76,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HDPRzJ97Zos"
+    }
+   },
+   "contentDetails": {
+    "videoId": "HDPRzJ97Zos",
+    "videoPublishedAt": "2018-02-17T11:00:08.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/feu8wF-BHoxh1bJGuQSIXKWfzac\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLmZjanIwTEdCX0tF",
+   "snippet": {
+    "publishedAt": "2018-02-18T05:00:05.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] BTS' exciting Game room #4 - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/fcjr0LGB_KE/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/fcjr0LGB_KE/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/fcjr0LGB_KE/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/fcjr0LGB_KE/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/fcjr0LGB_KE/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 77,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "fcjr0LGB_KE"
+    }
+   },
+   "contentDetails": {
+    "videoId": "fcjr0LGB_KE",
+    "videoPublishedAt": "2018-02-18T05:00:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/9mOMrzGKI1u_GVUTJZ8hRiI_vNs\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLnhRWHVabEQwaF9j",
+   "snippet": {
+    "publishedAt": "2018-02-16T06:00:11.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] BTS' exciting Game room #2 - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xQXuZlD0h_c/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xQXuZlD0h_c/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xQXuZlD0h_c/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xQXuZlD0h_c/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/xQXuZlD0h_c/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 78,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xQXuZlD0h_c"
+    }
+   },
+   "contentDetails": {
+    "videoId": "xQXuZlD0h_c",
+    "videoPublishedAt": "2018-02-16T06:00:11.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nt8pwinsavSGQxAu0ubhVA39sEI\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLlpxODlwUlpxaGsw",
+   "snippet": {
+    "publishedAt": "2018-02-23T06:00:11.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] j-hope & Jimin Dancing in Highlight Reel (Focus ver.) - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Zq89pRZqhk0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Zq89pRZqhk0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Zq89pRZqhk0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Zq89pRZqhk0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Zq89pRZqhk0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 79,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Zq89pRZqhk0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Zq89pRZqhk0",
+    "videoPublishedAt": "2018-02-23T06:00:11.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ayjMa4xnyAJuk7zgwfVcI0SXsEY\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLnlrWmk0VTk2NjlB",
+   "snippet": {
+    "publishedAt": "2018-02-15T08:00:04.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] BTS' exciting Game room #1 - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/ykZi4U9669A/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/ykZi4U9669A/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/ykZi4U9669A/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/ykZi4U9669A/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/ykZi4U9669A/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 80,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "ykZi4U9669A"
+    }
+   },
+   "contentDetails": {
+    "videoId": "ykZi4U9669A",
+    "videoPublishedAt": "2018-02-15T08:00:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XV3et4NJvuDV_o6Oyi8vRFs3R2k\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLmM1X0xST2FIR3R3",
+   "snippet": {
+    "publishedAt": "2017-11-29T10:00:03.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[EPISODE] BTS (방탄소년단) 'MIC Drop' MV Shooting",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/c5_LROaHGtw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/c5_LROaHGtw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/c5_LROaHGtw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/c5_LROaHGtw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/c5_LROaHGtw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 81,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "c5_LROaHGtw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "c5_LROaHGtw",
+    "videoPublishedAt": "2017-11-29T10:00:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PGvSUqnV1kdDGXYsjNqyAhHktco\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLkhRc3l4ek9DdVdB",
+   "snippet": {
+    "publishedAt": "2017-11-26T07:00:04.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] BTS 'MIC Drop' MV reaction - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/HQsyxzOCuWA/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/HQsyxzOCuWA/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/HQsyxzOCuWA/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 82,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "HQsyxzOCuWA"
+    }
+   },
+   "contentDetails": {
+    "videoId": "HQsyxzOCuWA",
+    "videoPublishedAt": "2017-11-26T07:00:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/757LbluV325oQOYy6ZONJ3ITuzM\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLjFZRVhYSVdxa01N",
+   "snippet": {
+    "publishedAt": "2017-11-15T15:00:10.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[PREVIEW] BTS (방탄소년단) 2018 Season’s greetings coming",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/1YEXXIWqkMM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/1YEXXIWqkMM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/1YEXXIWqkMM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/1YEXXIWqkMM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/1YEXXIWqkMM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 83,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "1YEXXIWqkMM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "1YEXXIWqkMM",
+    "videoPublishedAt": "2017-11-15T15:00:10.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/JWdhSb9JvP7596UgEGYVzMhorgI\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLmswV2kxRDdqaFdj",
+   "snippet": {
+    "publishedAt": "2017-11-11T10:00:06.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[Shout-out] 2018학년도 대학수학능력시험을 보는 아미들에게!",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/k0Wi1D7jhWc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/k0Wi1D7jhWc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/k0Wi1D7jhWc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/k0Wi1D7jhWc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/k0Wi1D7jhWc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 84,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "k0Wi1D7jhWc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "k0Wi1D7jhWc",
+    "videoPublishedAt": "2017-11-11T10:00:06.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/xQZvwWgPh-lPlnL0oecvLuQk-PM\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLlhyVE5Ma3FHcmxj",
+   "snippet": {
+    "publishedAt": "2017-11-08T13:00:13.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "G.C.F in Tokyo (정국&지민)",
+    "description": "Golden Closet Film in Tokyo with JM @ 2017\n\nDirector JK\nDirector Of Photography JK\nEditor JK\nActor JM\n\n(BGM : There For You - Martin Garrix, Troye Sivan)",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/XrTNLkqGrlc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/XrTNLkqGrlc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/XrTNLkqGrlc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/XrTNLkqGrlc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/XrTNLkqGrlc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 85,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "XrTNLkqGrlc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "XrTNLkqGrlc",
+    "videoPublishedAt": "2017-11-08T13:00:13.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/18-rKe1O1ypd-0jn_RDxYffV9ws\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLlN4VlpGWWJuOHAw",
+   "snippet": {
+    "publishedAt": "2017-11-09T13:00:01.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] '고민보다 GO (Halloween ver.)' Behind - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/SxVZFYbn8p0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/SxVZFYbn8p0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/SxVZFYbn8p0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/SxVZFYbn8p0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/SxVZFYbn8p0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 86,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "SxVZFYbn8p0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "SxVZFYbn8p0",
+    "videoPublishedAt": "2017-11-09T13:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/MIlqrdeeBlcESSxYjsNQb71FNVw\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLkZsNTRnRzBCOEkw",
+   "snippet": {
+    "publishedAt": "2017-10-27T13:00:00.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] '고민보다 GO (GOGO)' Dance Practice (Halloween ver.) - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Fl54gG0B8I0/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Fl54gG0B8I0/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Fl54gG0B8I0/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Fl54gG0B8I0/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Fl54gG0B8I0/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 87,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Fl54gG0B8I0"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Fl54gG0B8I0",
+    "videoPublishedAt": "2017-10-27T13:00:00.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ncYRXEFti32_WjvFTqiis-Wgxb0\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLkxWVjdvRDJLbXNr",
+   "snippet": {
+    "publishedAt": "2017-11-01T12:00:03.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] Jimin’s Surprise Birthday Party - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/LVV7oD2Kmsk/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/LVV7oD2Kmsk/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/LVV7oD2Kmsk/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/LVV7oD2Kmsk/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/LVV7oD2Kmsk/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 88,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "LVV7oD2Kmsk"
+    }
+   },
+   "contentDetails": {
+    "videoId": "LVV7oD2Kmsk",
+    "videoPublishedAt": "2017-11-01T12:00:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XXoXDlCnk4cKCNwoiWldt-6o6J4\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLnh0cXlFMDZ3R1BN",
+   "snippet": {
+    "publishedAt": "2017-10-30T09:00:04.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] Behind the stage of ‘MIC Drop’ @BTS DNA COMEBACK SHOW - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/xtqyE06wGPM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/xtqyE06wGPM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/xtqyE06wGPM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/xtqyE06wGPM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/xtqyE06wGPM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 89,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "xtqyE06wGPM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "xtqyE06wGPM",
+    "videoPublishedAt": "2017-10-30T09:00:04.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/e34_vebfMbpLMEY-lm2XPGbeygk\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLmgtdFJmakp6MGFj",
+   "snippet": {
+    "publishedAt": "2017-10-29T05:59:57.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] Again ‘No More Dream’ 2017! @BTS DNA COMEBACK SHOW - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/h-tRfjJz0ac/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/h-tRfjJz0ac/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/h-tRfjJz0ac/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/h-tRfjJz0ac/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/h-tRfjJz0ac/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 90,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "h-tRfjJz0ac"
+    }
+   },
+   "contentDetails": {
+    "videoId": "h-tRfjJz0ac",
+    "videoPublishedAt": "2017-10-29T05:59:57.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/2rRsEwFEu_b5C-xsff8dxCJrB7o\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLmpHOE5IWC1XX0Nj",
+   "snippet": {
+    "publishedAt": "2017-10-28T06:00:03.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] Behind the stage of ‘고민보다Go’ @BTS DNA COMEBACK SHOW - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/jG8NHX-W_Cc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/jG8NHX-W_Cc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/jG8NHX-W_Cc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/jG8NHX-W_Cc/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/jG8NHX-W_Cc/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 91,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "jG8NHX-W_Cc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "jG8NHX-W_Cc",
+    "videoPublishedAt": "2017-10-28T06:00:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ZqYLh_Tb4cFX4LcjNLal2P-nFSk\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLk5zeTFjcEpEZkJn",
+   "snippet": {
+    "publishedAt": "2017-10-15T15:00:02.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[PREVIEW] BTS (방탄소년단) 2017 BTS Live Trilogy EPISODE III THE WINGS TOUR in Seoul",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/Nsy1cpJDfBg/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/Nsy1cpJDfBg/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/Nsy1cpJDfBg/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/Nsy1cpJDfBg/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/Nsy1cpJDfBg/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 92,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "Nsy1cpJDfBg"
+    }
+   },
+   "contentDetails": {
+    "videoId": "Nsy1cpJDfBg",
+    "videoPublishedAt": "2017-10-15T15:00:02.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/XEV0xSCrT2wa0fPMDFSFNm0E5tA\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLm8zNmZ4TGY4bjF3",
+   "snippet": {
+    "publishedAt": "2017-10-23T10:00:01.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] BTS ‘DNA’ 2x Dance Time @BTS COUNTDOWN - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/o36fxLf8n1w/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/o36fxLf8n1w/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/o36fxLf8n1w/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/o36fxLf8n1w/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/o36fxLf8n1w/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 93,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "o36fxLf8n1w"
+    }
+   },
+   "contentDetails": {
+    "videoId": "o36fxLf8n1w",
+    "videoPublishedAt": "2017-10-23T10:00:01.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/y17oS-hRKZn8JFliuiMWGqM37SY\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLmVoX2MydEtfMjAw",
+   "snippet": {
+    "publishedAt": "2017-11-03T11:00:03.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[EPISODE] BTS (방탄소년단) ‘Highlight Reel’ sketch",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/eh_c2tK_200/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/eh_c2tK_200/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/eh_c2tK_200/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/eh_c2tK_200/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/eh_c2tK_200/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 94,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "eh_c2tK_200"
+    }
+   },
+   "contentDetails": {
+    "videoId": "eh_c2tK_200",
+    "videoPublishedAt": "2017-11-03T11:00:03.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/G6TPilPydTIKGqhJtkJQFp6ofyQ\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLnFHeVgzamJWSTRZ",
+   "snippet": {
+    "publishedAt": "2017-10-13T14:14:33.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "170902 JIMIN",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/qGyX3jbVI4Y/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/qGyX3jbVI4Y/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/qGyX3jbVI4Y/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/qGyX3jbVI4Y/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/qGyX3jbVI4Y/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 95,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "qGyX3jbVI4Y"
+    }
+   },
+   "contentDetails": {
+    "videoId": "qGyX3jbVI4Y",
+    "videoPublishedAt": "2017-10-13T14:14:33.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lkM46IEQK7a0GW39nq07fzffXWM\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLnVaUmxDNVY2YlhJ",
+   "snippet": {
+    "publishedAt": "2017-11-12T13:19:57.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "170918 SUGA",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/uZRlC5V6bXI/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/uZRlC5V6bXI/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/uZRlC5V6bXI/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 96,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "uZRlC5V6bXI"
+    }
+   },
+   "contentDetails": {
+    "videoId": "uZRlC5V6bXI",
+    "videoPublishedAt": "2017-11-12T13:19:57.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/1k968MBp6khuA4dIsoBiJgDXMlo\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLkVWLU5QSUdqbE13",
+   "snippet": {
+    "publishedAt": "2017-10-07T08:00:02.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] 'MIC Drop' Special Stage (BTS focus.) @COMEBACK SHOW - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/EV-NPIGjlMw/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/EV-NPIGjlMw/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/EV-NPIGjlMw/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/EV-NPIGjlMw/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/EV-NPIGjlMw/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 97,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "EV-NPIGjlMw"
+    }
+   },
+   "contentDetails": {
+    "videoId": "EV-NPIGjlMw",
+    "videoPublishedAt": "2017-10-07T08:00:02.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/PWYEXkznfsb3XX_bfCyCTybyhhs\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLnY4Zm5GWkJPblpj",
+   "snippet": {
+    "publishedAt": "2017-10-05T10:00:05.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] 'I NEED U' Stage @COMEBACK SHOW 'BTS DNA' - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/v8fnFZBOnZc/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/v8fnFZBOnZc/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/v8fnFZBOnZc/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 98,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "v8fnFZBOnZc"
+    }
+   },
+   "contentDetails": {
+    "videoId": "v8fnFZBOnZc",
+    "videoPublishedAt": "2017-10-05T10:00:05.000Z"
+   }
+  },
+  {
+   "kind": "youtube#playlistItem",
+   "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/QNNbzBQP4L4tbksQGe68l_mV4fI\"",
+   "id": "VVVMa0FlcFdqZHlsbVhTbHRvZkZ2c1lRLlFCWWJFVTB2dndN",
+   "snippet": {
+    "publishedAt": "2017-10-05T09:00:03.000Z",
+    "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+    "title": "[BANGTAN BOMB] 'DNA' Special Stage (BTS focus.) @COMEBACK SHOW - BTS (방탄소년단)",
+    "description": "BTS Official Homepage http://bts.ibighit.com\nBTS Blog http://btsblog.ibighit.com\nBTS Facebook https://www.facebook.com/bangtan.official",
+    "thumbnails": {
+     "default": {
+      "url": "https://i.ytimg.com/vi/QBYbEU0vvwM/default.jpg",
+      "width": 120,
+      "height": 90
+     },
+     "medium": {
+      "url": "https://i.ytimg.com/vi/QBYbEU0vvwM/mqdefault.jpg",
+      "width": 320,
+      "height": 180
+     },
+     "high": {
+      "url": "https://i.ytimg.com/vi/QBYbEU0vvwM/hqdefault.jpg",
+      "width": 480,
+      "height": 360
+     },
+     "standard": {
+      "url": "https://i.ytimg.com/vi/QBYbEU0vvwM/sddefault.jpg",
+      "width": 640,
+      "height": 480
+     },
+     "maxres": {
+      "url": "https://i.ytimg.com/vi/QBYbEU0vvwM/maxresdefault.jpg",
+      "width": 1280,
+      "height": 720
+     }
+    },
+    "channelTitle": "BANGTANTV",
+    "playlistId": "UULkAepWjdylmXSltofFvsYQ",
+    "position": 99,
+    "resourceId": {
+     "kind": "youtube#video",
+     "videoId": "QBYbEU0vvwM"
+    }
+   },
+   "contentDetails": {
+    "videoId": "QBYbEU0vvwM",
+    "videoPublishedAt": "2017-10-05T09:00:03.000Z"
+   }
+  }
+ ]
+}
