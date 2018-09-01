@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Mapping Cebu with QGIS"
 date: 2018-09-01
-image: assets/bangtantv-header.png
+image: assets/cebu_mandaue_poi.png
 description: "I put myself to the test on how well I know Cebu."
 ---
 
