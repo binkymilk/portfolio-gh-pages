@@ -3,6 +3,8 @@ layout: post
 comments: true
 title: "Mapping Cebu with QGIS"
 date: 2018-09-01
+image: assets/cebu_mandaue_poi.png
+description: "I put myself to the test on how well I know Cebu."
 ---
 
 It's been a while since I've visited Cebu and it probably doesn't look the same 4 years ago. I decided to put myself to the test and see how well I know Cebu—or at least Cebu City and Mandaue City since I've spent more than 10 years of my life in those cities. 
