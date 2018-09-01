@@ -4,6 +4,8 @@ comments: true
 title: "An Analysis on BANGTANTV"
 date: 2018-08-04
 header: assets/bangtantv-header.png
+image: assets/bangtantv-header.png
+description: I tried scraping BTS' videos from BANGTANTV and here's what I found out.
 ---
 
 
