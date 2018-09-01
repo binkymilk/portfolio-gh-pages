@@ -5,7 +5,7 @@ author: "Bianca"
 permalink: /about/
 ---
 
-Bianca is passionate about three things: boybands, cars, and data. She loves learning languages and wasting time browsing through Google Maps. Her dream is simple: to be able to watch an F1 race and to experience the Olympics.
+Bianca works as a data analyst at [Thinking Machines Data Science](https://www.thinkingmachin.es/). She loves cars, movies, and 방탄소년단. Her ultimate goal: to watch a live Olympics and F1 event.
 
 Tweet her anything [here](https://twitter.com/binkymilk). 
 
