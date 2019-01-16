@@ -4,11 +4,11 @@ title: "From Clueless to True Love: My Internship Experience"
 date: 2018-12-26
 ---
 
-# From Clueless to True Love: My Internship Experience
-
 It's already the end of 2018 and most of you would be finding internship programs fit for your interests and needs. Well here's a post for you: for you who is confused on what career path to take, for you who has heard of Data Science and ML, for you who is very interested in data analysis.
 
 ***
+
+<br>
 
 Last June 2017, I was lucky to be part of the internship program of Thinking Machines. Here's a brief intro on what the company is about:
 
@@ -55,6 +55,8 @@ Thinking Machines excel on these areas but there are still a lot of space uncove
 You can check [Thinking Machines' stories](https://stories.thinkingmachin.es/) and [case studies](https://stories.thinkingmachin.es/#type:case-study) to see how data has helped clients solve their business problems.
 
 ***
+
+<br>
 
 Fast-forward to the end of 2018. I graduated from college last June and now I'm currently working at the same company I was hired as an intern.
 
